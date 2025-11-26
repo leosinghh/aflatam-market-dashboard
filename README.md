@@ -1,7 +1,3 @@
-Here is a **polished, recruiter-ready, professional README.md** you can paste *directly* into your GitHub repo.
-
----
-
 # 🌍 Africa & LATAM Market Data Dashboard
 
 ### A non-AI, data-driven dashboard for emerging markets analysis
