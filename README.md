@@ -199,13 +199,6 @@ Please open an issue for major changes.
 
 ---
 
-## 📄 License
-
-Recommended: **MIT License**
-(If you want, I can generate it for you.)
-
----
-
 ## ⭐ If you found this useful
 
 Give the repo a **star** — it helps others discover it!
